@@ -1,2 +1,2 @@
 # first-unity-project
-Projeto da aula do dia 06/03 da disciplina de Game Programming, do curso tecnólogo de Jogos Digitais da FIAP. 
+Projeto realizado na aula do dia 06/03, onde aprendemos elementos básicos de programação e da engine, usando C# no Visual Studio.
